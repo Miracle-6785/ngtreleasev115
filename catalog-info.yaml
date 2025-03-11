@@ -12,7 +12,7 @@ metadata:
     sonarqube.org/project-key: default/ngtreleasev115
     
 
-    dependencytrack/project-id: ""
+    dependencytrack/project-id: "a18099fd-83dc-45d4-b4a0-6c54f9c28fbe"
     iap/app-info: "1/cbef5aec-6ee7-4d23-b589-df4fd8cdcc4b"
     backstage.io/techdocs-ref: dir:.
 
